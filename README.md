@@ -1,6 +1,9 @@
 # Birds_Species_Prediction
 
 ## Directly run (Command Line)
+```javascript
+    python3 birds_classification.py
+```  
 
 
 ## How to run (Google Collab)
